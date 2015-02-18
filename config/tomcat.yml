@@ -17,7 +17,7 @@
 ---
 tomcat:
   version: 8.0.18
-  repository_root: "https://dl.dropbox.com/sh/ad38v6hajw8ie0c/AAABg_s3owbaRFO0i8rX-Zgqa"
+  repository_root: "https://dl.dropboxusercontent.com/s/hikdat5avr8hfe9"
 lifecycle_support:
   version: 2.+
   repository_root: "{default.repository.root}/tomcat-lifecycle-support"
